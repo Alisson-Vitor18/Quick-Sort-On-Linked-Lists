@@ -62,3 +62,6 @@ Lista: { "Alisson", "Assembly", "COBOL", "Haskell", "Java", "Julia", "Kaik", "Ma
 ==12967== For lists of detected and suppressed errors, rerun with: -s
 ==12967== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 ```
+
+## Licença
+MIT
