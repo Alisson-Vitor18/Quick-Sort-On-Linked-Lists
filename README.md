@@ -23,6 +23,7 @@ gcc main.c list.c quicksort.c -o program
 
 ## Exemplo de saída
 
+```bash
 === Original ===
 Lista: { "Maria", "Marcos", "Kaik", "Alisson", "Assembly", "Julia", "Java", "Haskell", "COBOL" }
 
