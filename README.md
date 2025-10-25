@@ -8,7 +8,7 @@ Este projeto implementa uma lista encadeada de strings em C, permitindo adiciona
 - Ordenação usando QuickSort otimizado com mediana de três
 - Impressão da lista
 - Liberação segura da memória
-- 
+  
 ## Como usar
 1. Clone ou baixe o projeto.
 2. Compile os arquivos:
