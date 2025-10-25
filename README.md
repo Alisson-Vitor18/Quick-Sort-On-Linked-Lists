@@ -14,3 +14,18 @@ Este projeto implementa uma lista encadeada de strings em C, permitindo adiciona
 2. Compile os arquivos:
 ```bash
 gcc main.c list.c quicksort.c -o program
+```
+
+## Execução
+```bash
+./program
+```
+
+## Exemplo de saída
+
+=== Original ===
+Lista: { "Maria", "Marcos", "Kaik", "Alisson", "Assembly", "Julia", "Java", "Haskell", "COBOL" }
+
+=== Ordenada ===
+Lista: { "Alisson", "Assembly", "COBOL", "Haskell", "Java", "Julia", "Kaik", "Marcos", "Maria" }
+
