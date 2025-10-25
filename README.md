@@ -1,6 +1,6 @@
 # Lista Encadeada em C com QuickSort
 
-[![C](https://img.shields.io/badge/lang-C-blue)](https://www.iso-9899.info/) [![Valgrind](https://img.shields.io/badge/memory-checked-green)]
+[![C](https://img.shields.io/badge/lang-C-blue)](https://www.iso-9899.info/) ![Valgrind](https://img.shields.io/badge/memory-checked-green)
 
 Este projeto implementa uma lista encadeada de strings em C, permitindo adicionar, remover e ordenar elementos de forma eficiente. A ordenação é feita usando QuickSort com mediana de três, e toda a memória alocada é liberada corretamente, evitando vazamentos.
 
